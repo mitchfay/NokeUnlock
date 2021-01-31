@@ -40,9 +40,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kerry Enfinger - k.enfinger@whitehatdefenses.com
-
-Project Link: [https://github.com/whitehatdefenses/KlicUnLock](https://github.com/whitehatdefenses/KlicUnLock)
+Mitchel Fay XSDNMN
+https://github.com/mitchfay/
 
 
 
@@ -50,7 +49,8 @@ Project Link: [https://github.com/whitehatdefenses/KlicUnLock](https://github.co
 ## Acknowledgements
 * [Damien Cauquil](https://digital.security)
 * [Slawomir Jasek](https://smartlockpicking.com)
-
+Kerry Enfinger - k.enfinger@whitehatdefenses.com
+Project Link: [https://github.com/whitehatdefenses/KlicUnLock](https://github.com/whitehatdefenses/KlicUnLock)
 
 
 
